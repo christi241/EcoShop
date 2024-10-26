@@ -1,0 +1,58 @@
+.navbar {
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+  
+  .top-bar {
+    background-color: #f7f7f7;
+    color: black;
+    padding: 10px;
+  }
+  
+  .menu h1 {
+    color: black;
+  }
+/* Barre de navigation */
+.navbar {
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+  
+  .top-bar {
+    background-color: #f7f7f7;
+    color: black;
+    padding: 10px;
+  }
+  
+  .menu h1 {
+    color: black;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+  }
+  
+  /* Menu latéral */
+  .sidebar {
+    width: 200px;
+    background-color: #f1f1f1;
+    padding: 20px;
+  }
+  
+  .sidebar h3 {
+    font-size: 1.5em;
+  }
+  
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar ul li {
+    margin: 10px 0;
+  }
